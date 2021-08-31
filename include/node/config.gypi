@@ -26,7 +26,7 @@
                  'icu_ver_major': '67',
                  'is_debug': 0,
                  'llvm_version': '0.0',
-                 'napi_build_version': '7',
+                 'napi_build_version': '8',
                  'node_byteorder': 'little',
                  'node_debug_lib': 'false',
                  'node_enable_d8': 'false',
